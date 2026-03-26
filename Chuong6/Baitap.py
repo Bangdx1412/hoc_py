@@ -1,0 +1,9 @@
+# a = [4,2,6,7,9,8]
+# n = len(a)
+# for i in range(n//2) :
+#     tmp = a[i]
+#     a[i] = a[n-1-i]
+#     a[n-1-i] = tmp
+# print(a)
+
+
