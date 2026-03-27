@@ -35,5 +35,5 @@ print(thongtinsinhvien.keys())
 # print(thongtinsinhvien)
 
 # tenbien.clear
-thongtinsinhvien.clear()
-print(thongtinsinhvien)
+# thongtinsinhvien.clear()
+# print(thongtinsinhvien)
